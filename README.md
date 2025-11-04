@@ -35,7 +35,7 @@
 <h3>🌱 Currently Learning:</h3>
 
 - ⚙️ **Spring Boot Advanced Features & Microservices**  
-- ⚛️ **React **  
+- ⚛️ **React**  
 - ☁️ **AWS for Cloud Deployment**
 
 ---
